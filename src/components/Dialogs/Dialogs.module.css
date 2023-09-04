@@ -1,0 +1,45 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 20fr;
+
+
+}
+.DialogItems .active{
+    color: black;
+}
+.DialogItems{
+    padding: 10px;
+
+}
+
+.Messages{
+    padding: 15px;
+
+}
+
+.DialogItems a {
+    color: white;
+    text-decoration: none;
+
+}
+.addbut{
+    position: relative;
+    left: 539px;
+    width: 85px;
+    height: 20px;
+
+
+
+
+
+}
+.textarea{
+    position: relative;
+    left: 120px;
+    margin-top: 70px;
+    width: 500px;
+    height: 25px;
+
+}
+
+

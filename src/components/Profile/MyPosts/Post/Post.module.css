@@ -1,0 +1,23 @@
+
+.item {
+    padding: 10px;
+    color: white;
+    margin-left: 15px;
+    border-inline-stylen: solid;
+
+
+}
+
+
+.item img {
+
+    width: 25px;
+    height: 24px;
+    border-radius: 20px;
+    margin: 3px;
+
+}
+
+.item span {
+    text-align: right;
+}

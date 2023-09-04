@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: #282828;
+}
+/*стилизация навбара */
+.item a {
+    color: white;
+    text-decoration: none;
+
+}
+/*Снизу ддля отступа */
+.active {
+    padding-top: 20px;
+}
+/*Снизу для подсветки активных страниц*/
+.item a.active {
+    color: #40cfff;
+}
